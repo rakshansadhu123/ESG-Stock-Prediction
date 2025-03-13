@@ -1,0 +1,723 @@
+currency,industry,environment_grade,environment_level,social_grade,social_level,governance_grade,governance_level,environment_score,social_score,governance_score,total_score,total_grade,total_level
+USD,Media,A,High,BB,Medium,BB,Medium,510,316,321,1147,BBB,High
+USD,Automobiles,A,High,BB,Medium,B,Medium,510,303,255,1068,BBB,High
+USD,Trading Companies and Distributors,B,Medium,BB,Medium,B,Medium,255,385,240,880,BB,Medium
+USD,Consumer products,A,High,B,Medium,BB,Medium,570,298,303,1171,BBB,High
+USD,Media,BBB,High,BB,Medium,B,Medium,492,310,250,1052,BBB,High
+USD,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,547,318,313,1178,BBB,High
+USD,Consumer products,A,High,BB,Medium,BB,Medium,560,350,345,1255,A,High
+CNY,Diversified Consumer Services,B,Medium,B,Medium,B,Medium,203,200,205,608,B,Medium
+USD,Airlines,B,Medium,B,Medium,B,Medium,270,211,265,746,B,Medium
+USD,Insurance,B,Medium,B,Medium,BB,Medium,220,221,300,741,B,Medium
+USD,Communications,BB,Medium,B,Medium,B,Medium,311,256,218,785,BB,Medium
+USD,Building,A,High,BB,Medium,B,Medium,500,300,223,1023,BBB,High
+USD,Technology,BB,Medium,B,Medium,B,Medium,355,281,255,891,BB,Medium
+USD,Electrical Equipment,BBB,High,B,Medium,B,Medium,410,286,240,936,BBB,High
+USD,Logistics and Transportation,A,High,B,Medium,B,Medium,520,243,237,1000,BBB,High
+USD,,B,Medium,B,Medium,B,Medium,205,200,200,605,B,Medium
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,200,201,203,604,B,Medium
+USD,Biotechnology,B,Medium,BB,Medium,BB,Medium,205,306,310,821,BB,Medium
+USD,Hotels Restaurants and Leisure,A,High,A,High,BBB,High,505,570,400,1475,A,High
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,200,222,290,712,B,Medium
+USD,Health Care,A,High,BB,Medium,BB,Medium,500,324,305,1129,BBB,High
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,205,201,200,606,B,Medium
+USD,Life Sciences Tools and Services,B,Medium,B,Medium,B,Medium,205,224,230,659,B,Medium
+USD,Banking,B,Medium,BB,Medium,BB,Medium,298,300,300,898,BB,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,203,204,338,745,B,Medium
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,220,212,205,637,B,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,230,230,305,765,BB,Medium
+USD,,B,Medium,B,Medium,BB,Medium,200,205,300,705,B,Medium
+USD,Health Care,B,Medium,B,Medium,B,Medium,255,254,235,744,B,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,215,211,305,731,B,Medium
+USD,Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,540,354,345,1239,A,High
+USD,Banking,B,Medium,BB,Medium,B,Medium,290,300,250,840,BB,Medium
+USD,,B,Medium,B,Medium,B,Medium,225,211,215,651,B,Medium
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,230,288,285,803,BB,Medium
+USD,Health Care,BB,Medium,B,Medium,B,Medium,330,231,220,781,BB,Medium
+USD,Technology,A,High,BB,Medium,BB,Medium,500,327,300,1127,BBB,High
+USD,Semiconductors,A,High,BB,Medium,B,Medium,515,306,260,1081,BBB,High
+CHF,Biotechnology,B,Medium,B,Medium,BB,Medium,250,296,305,851,BB,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,215,222,305,742,B,Medium
+USD,Semiconductors,BBB,High,B,Medium,BB,Medium,410,232,325,967,BBB,High
+USD,Biotechnology,B,Medium,BB,Medium,BB,Medium,230,307,310,847,BB,Medium
+USD,Banking,B,Medium,B,Medium,B,Medium,220,219,215,654,B,Medium
+USD,Pharmaceuticals,B,Medium,B,Medium,B,Medium,230,207,220,657,B,Medium
+USD,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,200,237,300,737,B,Medium
+USD,Financial Services,A,High,BB,Medium,BB,Medium,540,328,315,1183,BBB,High
+USD,Financial Services,B,Medium,B,Medium,B,Medium,200,200,275,675,B,Medium
+USD,Commercial Services and Supplies,B,Medium,B,Medium,BB,Medium,235,262,315,812,BB,Medium
+USD,Biotechnology,B,Medium,BB,Medium,BB,Medium,295,301,305,901,BBB,High
+USD,Biotechnology,B,Medium,BB,Medium,BB,Medium,235,301,305,841,BB,Medium
+USD,Technology,B,Medium,B,Medium,B,Medium,200,221,200,621,B,Medium
+USD,Biotechnology,BB,Medium,B,Medium,BB,Medium,365,283,305,953,BBB,High
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,240,264,320,824,BB,Medium
+USD,Chemicals,B,Medium,B,Medium,BB,Medium,205,201,300,706,B,Medium
+USD,Semiconductors,BB,Medium,BB,Medium,BB,Medium,350,318,300,968,BBB,High
+USD,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,200,203,300,703,B,Medium
+USD,Pharmaceuticals,B,Medium,B,Medium,B,Medium,285,204,215,704,B,Medium
+USD,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,223,291,310,824,BB,Medium
+USD,,B,Medium,BB,Medium,BB,Medium,215,301,300,816,BB,Medium
+USD,Health Care,B,Medium,B,Medium,B,Medium,210,215,218,643,B,Medium
+USD,Insurance,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Life Sciences Tools and Services,B,Medium,BB,Medium,B,Medium,260,348,260,868,BB,Medium
+USD,Technology,A,High,BB,Medium,BB,Medium,555,304,310,1169,BBB,High
+USD,Technology,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,210,224,305,739,B,Medium
+USD,Media,A,High,B,Medium,BB,Medium,515,269,328,1112,BBB,High
+USD,Biotechnology,B,Medium,BB,Medium,B,Medium,262,321,235,818,BB,Medium
+USD,Semiconductors,B,Medium,B,Medium,BB,Medium,290,262,300,852,BB,Medium
+CNY,Building,B,Medium,B,Medium,BB,Medium,238,237,325,800,BB,Medium
+USD,Real Estate,A,High,B,Medium,B,Medium,520,207,210,937,BBB,High
+USD,Electrical Equipment,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Utilities,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Health Care,B,Medium,B,Medium,BB,Medium,200,262,315,777,BB,Medium
+USD,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+USD,Technology,B,Medium,BB,Medium,BB,Medium,235,301,308,844,BB,Medium
+USD,Pharmaceuticals,A,High,B,Medium,BB,Medium,500,264,310,1074,BBB,High
+USD,Electrical Equipment,B,Medium,B,Medium,BB,Medium,235,234,300,769,BB,Medium
+USD,,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+EUR,Biotechnology,BB,Medium,BB,Medium,BB,Medium,368,304,310,982,BBB,High
+USD,Real Estate,B,Medium,B,Medium,B,Medium,255,204,226,685,B,Medium
+USD,Banking,B,Medium,B,Medium,B,Medium,200,207,200,607,B,Medium
+USD,Technology,B,Medium,BB,Medium,BB,Medium,225,335,335,895,BB,Medium
+USD,Health Care,B,Medium,B,Medium,B,Medium,205,211,235,651,B,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,290,245,300,835,BB,Medium
+BRL,Diversified Consumer Services,B,Medium,B,Medium,B,Medium,290,203,205,698,B,Medium
+USD,Chemicals,A,High,BB,Medium,B,Medium,500,301,275,1076,BBB,High
+USD,Machinery,A,High,BB,Medium,BB,Medium,540,361,305,1206,A,High
+USD,Technology,BB,Medium,B,Medium,BB,Medium,340,299,305,944,BBB,High
+USD,Financial Services,B,Medium,B,Medium,B,Medium,205,204,210,619,B,Medium
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,520,303,325,1148,BBB,High
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,205,223,200,628,B,Medium
+USD,Real Estate,BB,Medium,B,Medium,BB,Medium,382,242,305,929,BBB,High
+USD,Food Products,A,High,B,Medium,BB,Medium,510,248,305,1063,BBB,High
+USD,Pharmaceuticals,B,Medium,B,Medium,B,Medium,240,203,260,703,B,Medium
+USD,Technology,A,High,BB,Medium,BB,Medium,500,303,300,1103,BBB,High
+USD,Biotechnology,B,Medium,BB,Medium,BB,Medium,235,323,305,863,BB,Medium
+USD,Health Care,B,Medium,B,Medium,B,Medium,210,211,235,656,B,Medium
+USD,Health Care,B,Medium,B,Medium,BB,Medium,210,228,325,763,BB,Medium
+USD,,B,Medium,B,Medium,BB,Medium,215,227,300,742,B,Medium
+USD,Communications,A,High,BB,Medium,BB,Medium,510,308,300,1118,BBB,High
+USD,Electrical Equipment,B,Medium,B,Medium,B,Medium,250,203,220,673,B,Medium
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,200,235,205,640,B,Medium
+USD,,B,Medium,B,Medium,B,Medium,200,205,230,635,B,Medium
+USD,Technology,A,High,B,Medium,BB,Medium,500,286,300,1086,BBB,High
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,250,246,305,801,BB,Medium
+USD,Logistics and Transportation,B,Medium,B,Medium,BB,Medium,234,210,325,769,BB,Medium
+USD,Machinery,A,High,BB,Medium,BB,Medium,525,315,305,1145,BBB,High
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,200,218,215,633,B,Medium
+USD,Electrical Equipment,A,High,BB,Medium,BB,Medium,500,300,330,1130,BBB,High
+USD,Health Care,B,Medium,B,Medium,B,Medium,210,201,205,616,B,Medium
+USD,Technology,A,High,BB,Medium,BB,Medium,515,341,305,1161,BBB,High
+USD,Health Care,BBB,High,BB,Medium,BB,Medium,455,347,300,1102,BBB,High
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,205,221,295,721,B,Medium
+USD,Electrical Equipment,B,Medium,BB,Medium,BBB,High,222,302,428,952,BBB,High
+USD,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,225,216,305,746,B,Medium
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,500,300,310,1110,BBB,High
+USD,Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,512,303,215,1030,BBB,High
+USD,Food Products,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,231,261,235,727,B,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,240,277,300,817,BB,Medium
+USD,Semiconductors,A,High,BB,Medium,B,Medium,542,314,250,1106,BBB,High
+USD,Technology,B,Medium,B,Medium,BB,Medium,225,260,315,800,BB,Medium
+USD,Health Care,B,Medium,B,Medium,B,Medium,235,285,255,775,BB,Medium
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,210,222,235,667,B,Medium
+USD,,B,Medium,BB,Medium,B,Medium,210,302,256,768,BB,Medium
+USD,Biotechnology,BBB,High,BB,Medium,BB,Medium,415,302,333,1050,BBB,High
+USD,Pharmaceuticals,B,Medium,B,Medium,B,Medium,220,228,243,691,B,Medium
+USD,Airlines,B,Medium,B,Medium,B,Medium,287,208,248,743,B,Medium
+CNY,Health Care,B,Medium,B,Medium,BB,Medium,220,250,300,770,BB,Medium
+USD,Technology,B,Medium,BB,Medium,B,Medium,280,305,260,845,BB,Medium
+USD,Biotechnology,BB,Medium,BB,Medium,BB,Medium,331,346,325,1002,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,508,324,310,1142,BBB,High
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,535,324,305,1164,BBB,High
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,525,317,300,1142,BBB,High
+USD,Semiconductors,B,Medium,B,Medium,B,Medium,200,208,200,608,B,Medium
+USD,Media,B,Medium,BB,Medium,BB,Medium,280,347,330,957,BBB,High
+USD,Semiconductors,B,Medium,B,Medium,B,Medium,210,212,200,622,B,Medium
+USD,Technology,A,High,BB,Medium,B,Medium,580,337,285,1202,A,High
+USD,Retail,AA,Excellent,BB,Medium,BBB,High,668,305,460,1433,A,High
+USD,Financial Services,B,Medium,B,Medium,B,Medium,220,203,200,623,B,Medium
+USD,Energy,A,High,BB,Medium,BB,Medium,510,316,325,1151,BBB,High
+USD,Biotechnology,BB,Medium,BB,Medium,BB,Medium,380,303,364,1047,BBB,High
+USD,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,558,306,310,1174,BBB,High
+USD,Technology,A,High,BB,Medium,B,Medium,500,308,295,1103,BBB,High
+USD,Electrical Equipment,B,Medium,B,Medium,B,Medium,225,209,200,634,B,Medium
+USD,Logistics and Transportation,A,High,BB,Medium,BB,Medium,575,330,338,1243,A,High
+USD,Insurance,B,Medium,B,Medium,B,Medium,235,275,250,760,BB,Medium
+USD,Media,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Media,A,High,BB,Medium,BB,Medium,507,343,315,1165,BBB,High
+USD,Commercial Services and Supplies,B,Medium,B,Medium,B,Medium,270,204,205,679,B,Medium
+USD,Retail,A,High,BB,Medium,B,Medium,537,306,225,1068,BBB,High
+USD,Road and Rail,A,High,BB,Medium,BB,Medium,510,310,325,1145,BBB,High
+USD,Technology,AA,Excellent,BB,Medium,BB,Medium,605,365,300,1270,A,High
+USD,Financial Services,BB,Medium,B,Medium,B,Medium,375,237,200,812,BB,Medium
+USD,Communications,B,Medium,B,Medium,B,Medium,280,234,220,734,B,Medium
+USD,Commercial Services and Supplies,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,530,305,305,1140,BBB,High
+USD,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,265,228,200,693,B,Medium
+USD,Media,B,Medium,B,Medium,B,Medium,210,263,205,678,B,Medium
+USD,Retail,B,Medium,B,Medium,B,Medium,235,208,215,658,B,Medium
+USD,Health Care,B,Medium,B,Medium,B,Medium,215,236,215,666,B,Medium
+USD,Media,BB,Medium,BB,Medium,B,Medium,360,300,225,885,BB,Medium
+USD,Utilities,A,High,BB,Medium,BB,Medium,519,307,300,1126,BBB,High
+USD,Energy,A,High,B,Medium,BB,Medium,513,271,300,1084,BBB,High
+USD,Retail,A,High,BB,Medium,BB,Medium,500,302,305,1107,BBB,High
+USD,Distributors,A,High,BB,Medium,BB,Medium,515,300,305,1120,BBB,High
+USD,Media,B,Medium,BB,Medium,BB,Medium,295,362,355,1012,BBB,High
+USD,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,215,200,215,630,B,Medium
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,510,325,315,1150,BBB,High
+USD,Food Products,A,High,BB,Medium,BB,Medium,520,307,300,1127,BBB,High
+USD,Media,B,Medium,B,Medium,B,Medium,205,232,215,652,B,Medium
+USD,Financial Services,B,Medium,B,Medium,B,Medium,230,213,210,653,B,Medium
+USD,Beverages,A,High,BB,Medium,BB,Medium,515,344,300,1159,BBB,High
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Media,B,Medium,BB,Medium,BB,Medium,245,389,311,945,BBB,High
+USD,Semiconductors,BB,Medium,B,Medium,B,Medium,330,287,235,852,BB,Medium
+USD,Technology,AA,Excellent,BBB,High,BB,Medium,715,443,375,1533,A,High
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,530,330,300,1160,BBB,High
+USD,Financial Services,A,High,BB,Medium,BB,Medium,505,310,300,1115,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,505,315,305,1125,BBB,High
+USD,Financial Services,B,Medium,B,Medium,B,Medium,250,226,225,701,B,Medium
+USD,Consumer products,A,High,BB,Medium,BB,Medium,525,303,315,1143,BBB,High
+USD,Semiconductors,BB,Medium,BB,Medium,B,Medium,323,301,275,899,BB,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,200,273,300,773,BB,Medium
+USD,Media,A,High,BB,Medium,BB,Medium,509,300,300,1109,BBB,High
+USD,Road and Rail,BBB,High,BBB,High,B,Medium,467,423,280,1170,BBB,High
+USD,Machinery,A,High,BB,Medium,BB,Medium,568,343,305,1216,A,High
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,505,329,305,1139,BBB,High
+USD,Retail,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Technology,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+USD,Insurance,A,High,BB,Medium,BB,Medium,555,320,300,1175,BBB,High
+USD,Retail,BB,Medium,BB,Medium,BB,Medium,375,325,300,1000,BBB,High
+USD,Real Estate,B,Medium,B,Medium,B,Medium,250,251,215,716,B,Medium
+USD,Semiconductors,BBB,High,BB,Medium,BB,Medium,409,300,300,1009,BBB,High
+USD,Distributors,A,High,BB,Medium,BB,Medium,525,306,313,1144,BBB,High
+USD,Beverages,AA,Excellent,BB,Medium,BB,Medium,719,340,358,1417,A,High
+USD,Hotels Restaurants and Leisure,BBB,High,BB,Medium,B,Medium,475,385,295,1155,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,575,372,365,1312,A,High
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,535,310,305,1150,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,550,302,308,1160,BBB,High
+USD,Hotels Restaurants and Leisure,BB,Medium,BB,Medium,B,Medium,371,300,220,891,BB,Medium
+USD,Technology,BB,Medium,B,Medium,B,Medium,370,244,285,899,BB,Medium
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,505,327,305,1137,BBB,High
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,575,312,328,1215,A,High
+USD,Technology,A,High,BB,Medium,BB,Medium,525,316,315,1156,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,540,355,300,1195,BBB,High
+USD,Life Sciences Tools and Services,A,High,B,Medium,BB,Medium,510,268,300,1078,BBB,High
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,507,328,315,1150,BBB,High
+USD,Semiconductors,A,High,BB,Medium,B,Medium,515,303,270,1088,BBB,High
+USD,Electrical Equipment,A,High,BBB,High,BB,Medium,550,415,315,1280,A,High
+USD,Financial Services,A,High,BB,Medium,BB,Medium,510,325,310,1145,BBB,High
+USD,Media,B,Medium,BB,Medium,BB,Medium,225,307,310,842,BB,Medium
+USD,Automobiles,A,High,CCC,Low,B,Medium,555,160,278,993,BBB,High
+USD,Retail,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Telecommunication,BB,Medium,BB,Medium,B,Medium,342,331,230,903,BBB,High
+USD,Airlines,B,Medium,B,Medium,B,Medium,205,203,221,629,B,Medium
+USD,Professional Services,AA,Excellent,BB,Medium,BB,Medium,615,366,300,1281,A,High
+USD,Retail,B,Medium,B,Medium,B,Medium,205,242,200,647,B,Medium
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Pharmaceuticals,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,548,354,325,1227,A,High
+USD,Retail,A,High,BB,Medium,BB,Medium,515,325,300,1140,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,545,359,325,1229,A,High
+USD,Utilities,B,Medium,B,Medium,B,Medium,223,201,205,629,B,Medium
+USD,Health Care,A,High,BB,Medium,BB,Medium,530,318,305,1153,BBB,High
+USD,Electrical Equipment,BB,Medium,BB,Medium,BB,Medium,320,317,300,937,BBB,High
+USD,Retail,B,Medium,B,Medium,B,Medium,264,261,210,735,B,Medium
+USD,Banking,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+USD,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,225,201,200,626,B,Medium
+USD,Life Sciences Tools and Services,A,High,B,Medium,B,Medium,573,231,233,1037,BBB,High
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,505,317,300,1122,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,505,300,315,1120,BBB,High
+USD,Food Products,A,High,BB,Medium,BB,Medium,587,353,305,1245,A,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,515,305,305,1125,BBB,High
+USD,Utilities,A,High,BB,Medium,BB,Medium,562,345,300,1207,A,High
+USD,Utilities,A,High,BB,Medium,BB,Medium,525,326,370,1221,A,High
+USD,Insurance,BBB,High,BB,Medium,B,Medium,454,300,235,989,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,515,360,305,1180,BBB,High
+USD,Insurance,A,High,BB,Medium,BB,Medium,530,344,310,1184,BBB,High
+USD,Insurance,BBB,High,BB,Medium,BB,Medium,438,316,300,1054,BBB,High
+USD,Airlines,A,High,BB,Medium,B,Medium,515,303,259,1077,BBB,High
+USD,Chemicals,A,High,BB,Medium,BB,Medium,545,322,315,1182,BBB,High
+USD,Insurance,A,High,BB,Medium,BB,Medium,518,323,310,1151,BBB,High
+USD,Insurance,A,High,BB,Medium,B,Medium,530,300,220,1050,BBB,High
+USD,Building,A,High,BB,Medium,BB,Medium,542,322,315,1179,BBB,High
+USD,Financial Services,BB,Medium,BB,Medium,B,Medium,396,308,267,971,BBB,High
+USD,Electrical Equipment,A,High,BB,Medium,B,Medium,540,329,270,1139,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,530,333,305,1168,BBB,High
+USD,Building,A,High,BB,Medium,BB,Medium,510,315,310,1135,BBB,High
+USD,Chemicals,AA,Excellent,BBB,High,BB,Medium,700,442,300,1442,A,High
+USD,Insurance,BBB,High,BB,Medium,B,Medium,485,304,288,1077,BBB,High
+USD,Communications,BBB,High,BB,Medium,B,Medium,444,310,295,1049,BBB,High
+USD,Electrical Equipment,A,High,BB,Medium,BBB,High,512,303,475,1290,A,High
+USD,Utilities,A,High,BB,Medium,BB,Medium,572,368,315,1255,A,High
+USD,Utilities,AA,Excellent,BB,Medium,BB,Medium,653,395,300,1348,A,High
+USD,Real Estate,AA,Excellent,BB,Medium,BB,Medium,600,337,345,1282,A,High
+USD,Auto Components,A,High,BB,Medium,BB,Medium,555,339,310,1204,A,High
+USD,Real Estate,A,High,BB,Medium,B,Medium,500,300,298,1098,BBB,High
+USD,Packaging,A,High,BB,Medium,BB,Medium,535,347,325,1207,A,High
+USD,Aerospace and Defense,B,Medium,B,Medium,B,Medium,220,224,235,679,B,Medium
+USD,Banking,B,Medium,BB,Medium,B,Medium,220,394,265,879,BB,Medium
+USD,Health Care,A,High,BB,Medium,BB,Medium,500,316,300,1116,BBB,High
+USD,Retail,A,High,BB,Medium,BB,Medium,525,303,300,1128,BBB,High
+USD,Health Care,AA,Excellent,BB,Medium,BB,Medium,607,384,315,1306,A,High
+USD,Life Sciences Tools and Services,B,Medium,B,Medium,BB,Medium,275,227,300,802,BB,Medium
+USD,Retail,BBB,High,B,Medium,BB,Medium,430,231,300,961,BBB,High
+USD,Financial Services,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Financial Services,B,Medium,B,Medium,B,Medium,230,226,208,664,B,Medium
+USD,Technology,A,High,BB,Medium,BB,Medium,550,313,325,1188,BBB,High
+USD,Pharmaceuticals,A,High,BB,Medium,BB,Medium,500,321,310,1131,BBB,High
+USD,Insurance,BBB,High,BB,Medium,BB,Medium,405,320,300,1025,BBB,High
+USD,Retail,B,Medium,B,Medium,B,Medium,260,222,213,695,B,Medium
+USD,Health Care,A,High,BB,Medium,BB,Medium,525,399,300,1224,A,High
+USD,Financial Services,A,High,BB,Medium,BB,Medium,534,343,320,1197,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,532,339,305,1176,BBB,High
+USD,Banking,A,High,BB,Medium,BB,Medium,510,340,300,1150,BBB,High
+USD,Banking,A,High,BB,Medium,BB,Medium,515,300,303,1118,BBB,High
+USD,Machinery,B,Medium,B,Medium,B,Medium,235,239,235,709,B,Medium
+USD,Building,B,Medium,B,Medium,B,Medium,210,258,226,694,B,Medium
+USD,Real Estate,B,Medium,B,Medium,B,Medium,200,209,200,609,B,Medium
+USD,Real Estate,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,530,379,320,1229,A,High
+USD,Banking,B,Medium,BB,Medium,B,Medium,280,300,230,810,BB,Medium
+USD,Consumer products,B,Medium,B,Medium,B,Medium,250,271,205,726,B,Medium
+USD,Machinery,A,High,BB,Medium,BB,Medium,500,320,305,1125,BBB,High
+USD,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,515,309,300,1124,BBB,High
+USD,Chemicals,A,High,BB,Medium,BB,Medium,500,319,300,1119,BBB,High
+USD,Retail,B,Medium,B,Medium,B,Medium,247,222,200,669,B,Medium
+USD,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,210,241,213,664,B,Medium
+USD,Health Care,B,Medium,BB,Medium,B,Medium,230,300,205,735,B,Medium
+USD,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,515,326,320,1161,BBB,High
+USD,Consumer products,A,High,BB,Medium,BB,Medium,578,341,348,1267,A,High
+USD,Chemicals,B,Medium,B,Medium,B,Medium,225,201,200,626,B,Medium
+USD,Financial Services,BB,Medium,BB,Medium,BB,Medium,335,321,313,969,BBB,High
+USD,Utilities,AA,Excellent,BB,Medium,BB,Medium,604,362,328,1294,A,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,540,313,300,1153,BBB,High
+USD,Chemicals,A,High,BB,Medium,BB,Medium,525,307,310,1142,BBB,High
+USD,Energy,A,High,BB,Medium,BB,Medium,570,301,300,1171,BBB,High
+USD,Chemicals,A,High,BB,Medium,BB,Medium,547,373,325,1245,A,High
+USD,Retail,B,Medium,BB,Medium,B,Medium,230,317,205,752,BB,Medium
+USD,Utilities,A,High,BB,Medium,B,Medium,592,313,210,1115,BBB,High
+USD,Utilities,AA,Excellent,A,High,BB,Medium,700,513,315,1528,A,High
+USD,Electrical Equipment,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+USD,Health Care,B,Medium,BB,Medium,BB,Medium,260,332,300,892,BB,Medium
+USD,Technology,A,High,BB,Medium,B,Medium,545,339,260,1144,BBB,High
+USD,Financial Services,A,High,BB,Medium,BB,Medium,525,305,305,1135,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,505,326,305,1136,BBB,High
+USD,Electrical Equipment,A,High,BB,Medium,BB,Medium,520,328,320,1168,BBB,High
+USD,Utilities,AA,Excellent,BB,Medium,BB,Medium,700,358,300,1358,A,High
+USD,Food Products,A,High,BB,Medium,BB,Medium,525,361,300,1186,BBB,High
+USD,Pharmaceuticals,A,High,BB,Medium,BB,Medium,565,308,300,1173,BBB,High
+USD,Banking,A,High,BB,Medium,BB,Medium,505,319,338,1162,BBB,High
+USD,Beverages,B,Medium,B,Medium,B,Medium,200,201,200,601,B,Medium
+USD,Retail,B,Medium,B,Medium,BB,Medium,251,237,300,788,BB,Medium
+USD,Professional Services,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Consumer products,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,505,326,305,1136,BBB,High
+USD,Chemicals,B,Medium,B,Medium,B,Medium,210,240,275,725,B,Medium
+USD,Telecommunication,A,High,BB,Medium,BB,Medium,535,327,305,1167,BBB,High
+USD,Chemicals,A,High,BB,Medium,BB,Medium,587,352,330,1269,A,High
+USD,Financial Services,A,High,BB,Medium,B,Medium,515,308,235,1058,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,500,303,310,1113,BBB,High
+USD,Building,A,High,BB,Medium,BB,Medium,522,323,305,1150,BBB,High
+USD,Retail,B,Medium,B,Medium,B,Medium,218,200,200,618,B,Medium
+USD,Health Care,A,High,BB,Medium,BB,Medium,515,308,315,1138,BBB,High
+USD,Food Products,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Insurance,A,High,BB,Medium,BB,Medium,517,305,305,1127,BBB,High
+USD,Hotels Restaurants and Leisure,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+USD,Insurance,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Tobacco,A,High,BB,Medium,BB,Medium,500,327,341,1168,BBB,High
+USD,Auto Components,B,Medium,B,Medium,B,Medium,260,206,230,696,B,Medium
+USD,Pharmaceuticals,A,High,BB,Medium,BB,Medium,500,305,315,1120,BBB,High
+USD,Energy,A,High,BB,Medium,BB,Medium,530,313,305,1148,BBB,High
+USD,Energy,AA,Excellent,BB,Medium,BB,Medium,700,366,315,1381,A,High
+USD,Financial Services,A,High,BB,Medium,BB,Medium,555,303,320,1178,BBB,High
+USD,Banking,A,High,BB,Medium,B,Medium,500,303,260,1063,BBB,High
+USD,Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,505,300,240,1045,BBB,High
+USD,Communications,A,High,BB,Medium,BB,Medium,505,305,347,1157,BBB,High
+USD,Utilities,AA,Excellent,BB,Medium,BB,Medium,668,306,313,1287,A,High
+USD,Financial Services,A,High,BB,Medium,BB,Medium,580,347,335,1262,A,High
+USD,Hotels Restaurants and Leisure,BBB,High,BB,Medium,BB,Medium,495,306,300,1101,BBB,High
+USD,Utilities,BB,Medium,BB,Medium,B,Medium,361,322,223,906,BBB,High
+USD,Aerospace and Defense,A,High,BB,Medium,BB,Medium,505,302,300,1107,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,550,374,350,1274,A,High
+USD,Metals and Mining,BB,Medium,BB,Medium,B,Medium,374,340,225,939,BBB,High
+USD,Professional Services,A,High,BB,Medium,BB,Medium,500,310,300,1110,BBB,High
+USD,Road and Rail,BB,Medium,BB,Medium,BB,Medium,358,339,330,1027,BBB,High
+USD,Consumer products,B,Medium,B,Medium,B,Medium,265,206,205,676,B,Medium
+USD,Insurance,BB,Medium,BB,Medium,B,Medium,350,355,270,975,BBB,High
+USD,Pharmaceuticals,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Consumer products,B,Medium,B,Medium,B,Medium,215,203,240,658,B,Medium
+USD,Machinery,BB,Medium,BB,Medium,B,Medium,325,303,225,853,BB,Medium
+USD,Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,515,316,325,1156,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,579,374,315,1268,A,High
+USD,Chemicals,B,Medium,B,Medium,B,Medium,293,236,220,749,B,Medium
+USD,Real Estate,B,Medium,B,Medium,B,Medium,235,245,205,685,B,Medium
+USD,Banking,BBB,High,BB,Medium,BB,Medium,455,323,300,1078,BBB,High
+USD,Tobacco,A,High,BB,Medium,BB,Medium,520,327,315,1162,BBB,High
+USD,Packaging,A,High,BB,Medium,BB,Medium,500,303,300,1103,BBB,High
+USD,Energy,A,High,BB,Medium,BB,Medium,569,363,310,1242,A,High
+USD,Insurance,B,Medium,BB,Medium,B,Medium,285,300,288,873,BB,Medium
+USD,Machinery,BBB,High,BB,Medium,BB,Medium,433,330,315,1078,BBB,High
+USD,Utilities,AA,Excellent,BBB,High,BB,Medium,629,479,300,1408,A,High
+USD,Utilities,A,High,BB,Medium,BB,Medium,525,306,300,1131,BBB,High
+USD,Construction,A,High,BB,Medium,BB,Medium,540,382,310,1232,A,High
+USD,Financial Services,A,High,BB,Medium,BB,Medium,505,309,305,1119,BBB,High
+USD,Banking,BBB,High,BB,Medium,BB,Medium,490,304,305,1099,BBB,High
+USD,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,503,327,310,1140,BBB,High
+USD,Textiles Apparel and Luxury Goods,BBB,High,BB,Medium,BB,Medium,420,352,303,1075,BBB,High
+USD,Textiles Apparel and Luxury Goods,BBB,High,BB,Medium,BB,Medium,418,319,315,1052,BBB,High
+USD,Professional Services,B,Medium,BB,Medium,BB,Medium,255,334,310,899,BB,Medium
+USD,Energy,AA,Excellent,BBB,High,BB,Medium,700,412,300,1412,A,High
+USD,Commercial Services and Supplies,A,High,BB,Medium,BB,Medium,500,300,305,1105,BBB,High
+USD,Health Care,BB,Medium,BB,Medium,BB,Medium,330,312,300,942,BBB,High
+USD,Financial Services,A,High,BB,Medium,BB,Medium,515,300,300,1115,BBB,High
+USD,Electrical Equipment,BB,Medium,B,Medium,B,Medium,308,243,210,761,BB,Medium
+USD,Aerospace and Defense,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Packaging,A,High,BB,Medium,B,Medium,555,318,257,1130,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,570,350,340,1260,A,High
+USD,Machinery,A,High,BB,Medium,BB,Medium,555,315,300,1170,BBB,High
+USD,Beverages,BBB,High,BB,Medium,B,Medium,459,313,295,1067,BBB,High
+USD,Health Care,BBB,High,BB,Medium,BB,Medium,485,321,325,1131,BBB,High
+USD,Retail,A,High,BB,Medium,BB,Medium,555,301,305,1161,BBB,High
+USD,Chemicals,B,Medium,B,Medium,B,Medium,295,259,220,774,BB,Medium
+USD,Financial Services,BBB,High,BB,Medium,BB,Medium,435,341,310,1086,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,510,301,305,1116,BBB,High
+USD,Financial Services,BB,Medium,BB,Medium,BB,Medium,325,312,310,947,BBB,High
+USD,Real Estate,B,Medium,B,Medium,B,Medium,225,247,205,677,B,Medium
+USD,Utilities,AA,Excellent,BB,Medium,BB,Medium,700,386,310,1396,A,High
+USD,Utilities,A,High,BB,Medium,BB,Medium,515,307,330,1152,BBB,High
+USD,Financial Services,B,Medium,B,Medium,B,Medium,225,211,210,646,B,Medium
+USD,Machinery,A,High,BB,Medium,B,Medium,500,300,261,1061,BBB,High
+USD,Aerospace and Defense,A,High,BB,Medium,BBB,High,520,330,400,1250,A,High
+USD,Insurance,A,High,BB,Medium,BB,Medium,500,305,305,1110,BBB,High
+USD,Electrical Equipment,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+USD,Health Care,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+USD,Banking,BBB,High,BB,Medium,BB,Medium,480,308,300,1088,BBB,High
+USD,Electrical Equipment,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Retail,A,High,BB,Medium,BB,Medium,550,342,313,1205,A,High
+USD,Retail,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Textiles Apparel and Luxury Goods,BBB,High,BB,Medium,BB,Medium,483,310,300,1093,BBB,High
+USD,Insurance,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,527,332,280,1139,BBB,High
+USD,Building,AA,Excellent,BB,Medium,BB,Medium,700,389,320,1409,A,High
+USD,Food Products,A,High,BB,Medium,BB,Medium,530,374,340,1244,A,High
+USD,Technology,BBB,High,BB,Medium,BB,Medium,400,306,305,1011,BBB,High
+USD,Aerospace and Defense,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Logistics and Transportation,A,High,BB,Medium,B,Medium,540,374,245,1159,BBB,High
+USD,Real Estate,B,Medium,BB,Medium,B,Medium,225,301,215,741,B,Medium
+USD,Health Care,A,High,BB,Medium,BB,Medium,560,320,338,1218,A,High
+USD,Chemicals,A,High,BB,Medium,BB,Medium,515,379,315,1209,A,High
+USD,Banking,BB,Medium,BB,Medium,BB,Medium,336,317,300,953,BBB,High
+USD,Trading Companies and Distributors,BBB,High,BB,Medium,BB,Medium,472,318,300,1090,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,540,326,325,1191,BBB,High
+USD,Energy,AA,Excellent,BB,Medium,BB,Medium,608,307,330,1245,A,High
+USD,Textiles Apparel and Luxury Goods,A,High,BB,Medium,BB,Medium,505,301,300,1106,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,504,368,310,1182,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Construction,A,High,BB,Medium,BB,Medium,570,319,300,1189,BBB,High
+USD,Utilities,AA,Excellent,BBB,High,BB,Medium,635,438,300,1373,A,High
+USD,Real Estate,BBB,High,BB,Medium,BB,Medium,437,326,300,1063,BBB,High
+USD,Life Sciences Tools and Services,B,Medium,B,Medium,B,Medium,270,292,235,797,BB,Medium
+USD,Commercial Services and Supplies,AA,Excellent,BBB,High,B,Medium,613,408,285,1306,A,High
+USD,Machinery,AA,Excellent,BB,Medium,BB,Medium,607,311,320,1238,A,High
+USD,Energy,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Banking,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Consumer products,A,High,BB,Medium,BB,Medium,500,301,300,1101,BBB,High
+USD,Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,540,330,305,1175,BBB,High
+USD,Insurance,BB,Medium,B,Medium,BB,Medium,360,294,300,954,BBB,High
+USD,Retail,BB,Medium,B,Medium,B,Medium,310,281,220,811,BB,Medium
+USD,Technology,B,Medium,B,Medium,B,Medium,205,205,228,638,B,Medium
+USD,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,500,320,310,1130,BBB,High
+USD,Machinery,BB,Medium,B,Medium,B,Medium,374,254,210,838,BB,Medium
+USD,Real Estate,AA,Excellent,BB,Medium,BB,Medium,700,340,300,1340,A,High
+USD,Packaging,A,High,BB,Medium,BB,Medium,555,324,305,1184,BBB,High
+USD,Energy,A,High,BB,Medium,BB,Medium,538,322,313,1173,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,520,330,310,1160,BBB,High
+USD,Pharmaceuticals,A,High,BB,Medium,BB,Medium,520,348,310,1178,BBB,High
+USD,Machinery,A,High,BB,Medium,BB,Medium,560,339,305,1204,A,High
+USD,Chemicals,A,High,BB,Medium,B,Medium,550,341,295,1186,BBB,High
+USD,Utilities,A,High,BB,Medium,BB,Medium,535,325,310,1170,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,540,302,315,1157,BBB,High
+USD,Airlines,A,High,BB,Medium,BB,Medium,515,300,313,1128,BBB,High
+USD,Technology,B,Medium,B,Medium,B,Medium,215,241,200,656,B,Medium
+USD,Energy,B,Medium,B,Medium,B,Medium,210,217,210,637,B,Medium
+USD,Chemicals,AA,Excellent,BB,Medium,BB,Medium,610,312,320,1242,A,High
+USD,Energy,A,High,BB,Medium,BB,Medium,555,329,310,1194,BBB,High
+USD,Pharmaceuticals,BBB,High,BB,Medium,BB,Medium,483,303,305,1091,BBB,High
+USD,Food Products,A,High,BB,Medium,BB,Medium,515,301,305,1121,BBB,High
+USD,Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,510,322,235,1067,BBB,High
+USD,Energy,AA,Excellent,A,High,BB,Medium,687,544,305,1536,A,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Financial Services,A,High,BB,Medium,BB,Medium,508,309,320,1137,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,548,355,315,1218,A,High
+USD,Utilities,A,High,BB,Medium,B,Medium,550,320,260,1130,BBB,High
+USD,Utilities,BBB,High,AA,Excellent,C,Low,450,667,75,1192,BBB,High
+USD,Machinery,A,High,BB,Medium,BB,Medium,510,320,300,1130,BBB,High
+USD,Consumer products,A,High,BB,Medium,BB,Medium,520,310,310,1140,BBB,High
+USD,Industrial Conglomerates,A,High,BB,Medium,BB,Medium,526,310,305,1141,BBB,High
+USD,Banking,B,Medium,B,Medium,B,Medium,230,215,205,650,B,Medium
+USD,Food Products,A,High,BB,Medium,BB,Medium,525,306,300,1131,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,508,328,310,1146,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,505,300,315,1120,BBB,High
+USD,Technology,B,Medium,B,Medium,B,Medium,210,230,215,655,B,Medium
+USD,Food Products,BB,Medium,B,Medium,BB,Medium,345,256,300,901,BBB,High
+USD,Real Estate,BB,Medium,B,Medium,B,Medium,315,261,210,786,BB,Medium
+USD,Construction,A,High,BB,Medium,BB,Medium,573,313,300,1186,BBB,High
+USD,Airlines,B,Medium,BB,Medium,B,Medium,295,314,218,827,BB,Medium
+USD,Insurance,AA,Excellent,BB,Medium,BB,Medium,700,300,300,1300,A,High
+USD,Consumer products,BB,Medium,BB,Medium,B,Medium,363,344,220,927,BBB,High
+USD,Consumer products,A,High,BBB,High,BB,Medium,560,422,310,1292,A,High
+USD,Pharmaceuticals,A,High,BB,Medium,BB,Medium,515,335,305,1155,BBB,High
+USD,Energy,A,High,BB,Medium,BB,Medium,505,302,300,1107,BBB,High
+USD,Technology,A,High,BB,Medium,B,Medium,500,318,275,1093,BBB,High
+USD,Technology,BBB,High,BB,Medium,BB,Medium,470,305,315,1090,BBB,High
+USD,Utilities,A,High,BB,Medium,B,Medium,500,300,205,1005,BBB,High
+USD,Energy,A,High,BB,Medium,BB,Medium,581,326,355,1262,A,High
+USD,Utilities,BB,Medium,BB,Medium,B,Medium,371,327,218,916,BBB,High
+USD,Insurance,A,High,BB,Medium,BB,Medium,505,303,313,1121,BBB,High
+USD,Media,A,High,BB,Medium,BB,Medium,543,333,305,1181,BBB,High
+USD,Technology,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,205,205,200,610,B,Medium
+USD,Telecommunication,B,Medium,B,Medium,BB,Medium,210,200,305,715,B,Medium
+USD,Road and Rail,B,Medium,B,Medium,B,Medium,290,257,245,792,BB,Medium
+USD,Metals and Mining,AA,Excellent,BB,Medium,BB,Medium,675,389,355,1419,A,High
+USD,Logistics and Transportation,BB,Medium,B,Medium,B,Medium,335,278,255,868,BB,Medium
+USD,Textiles Apparel and Luxury Goods,B,Medium,B,Medium,B,Medium,205,275,200,680,B,Medium
+USD,Automobiles,B,Medium,B,Medium,B,Medium,292,246,215,753,BB,Medium
+USD,Aerospace and Defense,A,High,BB,Medium,BB,Medium,510,324,320,1154,BBB,High
+USD,Commercial Services and Supplies,B,Medium,B,Medium,B,Medium,293,235,216,744,B,Medium
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,565,316,300,1181,BBB,High
+USD,Utilities,AA,Excellent,BBB,High,BB,Medium,694,403,316,1413,A,High
+USD,Logistics and Transportation,A,High,BB,Medium,BB,Medium,510,302,300,1112,BBB,High
+USD,Hotels Restaurants and Leisure,B,Medium,B,Medium,BB,Medium,225,242,305,772,BB,Medium
+USD,Trading Companies and Distributors,B,Medium,BB,Medium,B,Medium,230,302,200,732,B,Medium
+USD,Communications,B,Medium,B,Medium,B,Medium,200,221,215,636,B,Medium
+USD,Technology,BB,Medium,BB,Medium,BB,Medium,395,302,310,1007,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,515,323,315,1153,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,500,306,305,1111,BBB,High
+USD,Retail,B,Medium,B,Medium,B,Medium,235,241,235,711,B,Medium
+USD,Financial Services,BB,Medium,BB,Medium,BB,Medium,321,349,310,980,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,540,317,300,1157,BBB,High
+USD,Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,530,344,385,1259,A,High
+USD,Professional Services,BB,Medium,BB,Medium,BB,Medium,390,300,305,995,BBB,High
+USD,Consumer products,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Chemicals,A,High,BB,Medium,BB,Medium,583,365,310,1258,A,High
+USD,Electrical Equipment,AA,Excellent,BB,Medium,BB,Medium,605,323,315,1243,A,High
+USD,Energy,A,High,B,Medium,B,Medium,550,252,240,1042,BBB,High
+USD,Real Estate,B,Medium,B,Medium,B,Medium,235,208,210,653,B,Medium
+USD,Utilities,A,High,BBB,High,BB,Medium,576,409,310,1295,A,High
+USD,Real Estate,BB,Medium,BB,Medium,B,Medium,377,304,210,891,BB,Medium
+USD,Banking,BB,Medium,BB,Medium,B,Medium,313,300,215,828,BB,Medium
+USD,Utilities,AA,Excellent,BB,Medium,BB,Medium,653,380,310,1343,A,High
+USD,Real Estate,A,High,B,Medium,B,Medium,572,289,225,1086,BBB,High
+USD,Health Care,B,Medium,BB,Medium,BB,Medium,290,333,305,928,BBB,High
+USD,Media,B,Medium,BB,Medium,BB,Medium,295,330,315,940,BBB,High
+USD,Metals and Mining,AA,Excellent,BB,Medium,BB,Medium,608,313,305,1226,A,High
+USD,Utilities,A,High,BB,Medium,BB,Medium,510,304,300,1114,BBB,High
+USD,Technology,BBB,High,BB,Medium,BB,Medium,410,302,300,1012,BBB,High
+USD,Technology,A,High,B,Medium,BB,Medium,530,298,310,1138,BBB,High
+USD,Banking,BB,Medium,BB,Medium,B,Medium,370,331,288,989,BBB,High
+USD,Chemicals,A,High,BB,Medium,BB,Medium,510,307,315,1132,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,525,302,300,1127,BBB,High
+USD,Machinery,A,High,BB,Medium,BB,Medium,540,326,305,1171,BBB,High
+USD,Retail,A,High,BB,Medium,BB,Medium,515,349,300,1164,BBB,High
+USD,Consumer products,B,Medium,B,Medium,B,Medium,205,242,200,647,B,Medium
+USD,Technology,A,High,BB,Medium,BB,Medium,500,316,315,1131,BBB,High
+USD,Pharmaceuticals,A,High,BB,Medium,BB,Medium,510,360,310,1180,BBB,High
+USD,Insurance,A,High,B,Medium,BB,Medium,505,276,305,1086,BBB,High
+USD,Utilities,A,High,BB,Medium,BB,Medium,555,310,300,1165,BBB,High
+USD,Building,A,High,BB,Medium,BB,Medium,510,302,300,1112,BBB,High
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,500,303,300,1103,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,515,324,315,1154,BBB,High
+USD,Health Care,B,Medium,B,Medium,B,Medium,210,205,200,615,B,Medium
+USD,Industrial Conglomerates,A,High,BB,Medium,BB,Medium,545,344,308,1197,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,510,318,318,1146,BBB,High
+USD,Aerospace and Defense,A,High,BB,Medium,BB,Medium,510,310,300,1120,BBB,High
+USD,Leisure Products,B,Medium,BB,Medium,BB,Medium,255,301,300,856,BB,Medium
+USD,Banking,BB,Medium,BB,Medium,BB,Medium,308,300,300,908,BBB,High
+USD,Insurance,B,Medium,B,Medium,B,Medium,215,238,215,668,B,Medium
+USD,Distributors,A,High,B,Medium,BB,Medium,535,225,305,1065,BBB,High
+USD,Electrical Equipment,A,High,BB,Medium,B,Medium,535,311,250,1096,BBB,High
+USD,Technology,BB,Medium,BB,Medium,B,Medium,310,343,265,918,BBB,High
+USD,Health Care,A,High,BB,Medium,BB,Medium,520,348,305,1173,BBB,High
+USD,Textiles Apparel and Luxury Goods,BB,Medium,B,Medium,BB,Medium,310,223,305,838,BB,Medium
+USD,Aerospace and Defense,A,High,BB,Medium,BB,Medium,545,315,315,1175,BBB,High
+USD,Technology,B,Medium,BB,Medium,B,Medium,230,359,230,819,BB,Medium
+USD,Energy,A,High,BB,Medium,BB,Medium,535,300,305,1140,BBB,High
+USD,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,293,200,205,698,B,Medium
+USD,Food Products,A,High,BB,Medium,BB,Medium,570,322,300,1192,BBB,High
+USD,Technology,B,Medium,B,Medium,B,Medium,245,211,200,656,B,Medium
+USD,Health Care,BBB,High,BB,Medium,BB,Medium,462,300,300,1062,BBB,High
+USD,Aerospace and Defense,A,High,BB,Medium,BB,Medium,525,315,320,1160,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,535,331,335,1201,A,High
+USD,Food Products,A,High,BB,Medium,BB,Medium,585,326,365,1276,A,High
+USD,Industrial Conglomerates,A,High,BB,Medium,BB,Medium,533,300,300,1133,BBB,High
+EUR,Media,A,High,B,Medium,B,Medium,500,283,255,1038,BBB,High
+USD,Trading Companies and Distributors,BBB,High,BB,Medium,BB,Medium,477,306,300,1083,BBB,High
+USD,Real Estate,B,Medium,B,Medium,BB,Medium,230,239,300,769,BB,Medium
+USD,Professional Services,A,High,BB,Medium,BB,Medium,510,313,310,1133,BBB,High
+USD,Leisure Products,B,Medium,B,Medium,BB,Medium,269,253,305,827,BB,Medium
+USD,Media,B,Medium,A,High,B,Medium,245,515,213,973,BBB,High
+USD,Technology,BB,Medium,BB,Medium,BB,Medium,325,314,310,949,BBB,High
+USD,Aerospace and Defense,A,High,BB,Medium,BB,Medium,515,337,300,1152,BBB,High
+CNY,Consumer products,BB,Medium,B,Medium,BB,Medium,355,217,325,897,BB,Medium
+CNY,Financial Services,B,Medium,B,Medium,B,Medium,200,205,205,610,B,Medium
+USD,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,205,217,220,642,B,Medium
+USD,Chemicals,A,High,BB,Medium,BB,Medium,503,320,300,1123,BBB,High
+CNY,Electrical Equipment,B,Medium,B,Medium,B,Medium,202,210,295,707,B,Medium
+USD,Machinery,A,High,BB,Medium,B,Medium,535,391,240,1166,BBB,High
+USD,Technology,B,Medium,B,Medium,B,Medium,240,234,200,674,B,Medium
+USD,Marine,BB,Medium,BB,Medium,BB,Medium,329,351,320,1000,BBB,High
+USD,Biotechnology,B,Medium,BB,Medium,BB,Medium,240,326,305,871,BB,Medium
+USD,Building,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Technology,A,High,B,Medium,B,Medium,515,278,205,998,BBB,High
+USD,Technology,A,High,BB,Medium,BB,Medium,515,338,320,1173,BBB,High
+USD,Electrical Equipment,A,High,BB,Medium,BB,Medium,510,300,300,1110,BBB,High
+USD,Marine,BB,Medium,BB,Medium,BB,Medium,345,300,305,950,BBB,High
+USD,Electrical Equipment,B,Medium,B,Medium,BB,Medium,285,280,300,865,BB,Medium
+USD,Textiles Apparel and Luxury Goods,A,High,B,Medium,BB,Medium,508,231,300,1039,BBB,High
+USD,Machinery,A,High,BB,Medium,B,Medium,510,303,275,1088,BBB,High
+USD,Health Care,B,Medium,B,Medium,B,Medium,220,228,210,658,B,Medium
+USD,Financial Services,BB,Medium,B,Medium,B,Medium,300,299,235,834,BB,Medium
+USD,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,210,200,205,615,B,Medium
+USD,Media,B,Medium,BB,Medium,BB,Medium,275,332,315,922,BBB,High
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,220,202,300,722,B,Medium
+USD,Textiles Apparel and Luxury Goods,BB,Medium,B,Medium,BB,Medium,390,298,308,996,BBB,High
+USD,Real Estate,B,Medium,B,Medium,B,Medium,260,263,236,759,BB,Medium
+USD,Metals and Mining,A,High,BB,Medium,BB,Medium,535,364,300,1199,BBB,High
+CNY,Automobiles,B,Medium,B,Medium,B,Medium,215,208,200,623,B,Medium
+USD,Road and Rail,A,High,BB,Medium,BB,Medium,560,318,300,1178,BBB,High
+USD,Real Estate,B,Medium,B,Medium,BB,Medium,205,242,300,747,B,Medium
+USD,Auto Components,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+CNY,Financial Services,B,Medium,B,Medium,B,Medium,215,205,200,620,B,Medium
+USD,Insurance,B,Medium,B,Medium,BB,Medium,215,240,300,755,BB,Medium
+USD,Media,B,Medium,B,Medium,B,Medium,233,244,220,697,B,Medium
+USD,Machinery,BBB,High,BB,Medium,B,Medium,420,303,210,933,BBB,High
+USD,Health Care,B,Medium,BB,Medium,B,Medium,219,308,236,763,BB,Medium
+USD,Food Products,A,High,BB,Medium,BB,Medium,520,302,305,1127,BBB,High
+USD,Technology,B,Medium,B,Medium,BB,Medium,221,225,305,751,BB,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,210,207,330,747,B,Medium
+USD,Biotechnology,BB,Medium,BB,Medium,BB,Medium,360,325,320,1005,BBB,High
+EUR,Technology,A,High,BB,Medium,BB,Medium,505,301,300,1106,BBB,High
+USD,Consumer products,B,Medium,B,Medium,B,Medium,200,260,230,690,B,Medium
+USD,Construction,A,High,BB,Medium,B,Medium,589,390,277,1256,A,High
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,510,302,315,1127,BBB,High
+USD,Insurance,B,Medium,B,Medium,BB,Medium,215,233,300,748,B,Medium
+USD,Banking,B,Medium,B,Medium,B,Medium,210,215,215,640,B,Medium
+USD,Machinery,B,Medium,B,Medium,B,Medium,225,282,210,717,B,Medium
+USD,Electrical Equipment,BBB,High,BB,Medium,BB,Medium,451,300,330,1081,BBB,High
+USD,Life Sciences Tools and Services,B,Medium,BB,Medium,B,Medium,220,300,248,768,BB,Medium
+USD,Biotechnology,BB,Medium,BB,Medium,B,Medium,353,321,294,968,BBB,High
+USD,Banking,BB,Medium,BB,Medium,B,Medium,351,300,235,886,BB,Medium
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,535,325,335,1195,BBB,High
+USD,Pharmaceuticals,B,Medium,B,Medium,B,Medium,205,257,230,692,B,Medium
+USD,Media,B,Medium,B,Medium,B,Medium,205,202,200,607,B,Medium
+USD,Technology,BB,Medium,BB,Medium,B,Medium,346,325,260,931,BBB,High
+USD,Semiconductors,BB,Medium,BB,Medium,B,Medium,377,309,255,941,BBB,High
+USD,Communications,BB,Medium,B,Medium,B,Medium,370,228,210,808,BB,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,255,214,300,769,BB,Medium
+USD,Chemicals,BBB,High,B,Medium,BB,Medium,408,206,300,914,BBB,High
+USD,Technology,A,High,BB,Medium,B,Medium,505,307,245,1057,BBB,High
+USD,Real Estate,B,Medium,B,Medium,B,Medium,240,206,240,686,B,Medium
+USD,Utilities,BB,Medium,B,Medium,B,Medium,367,297,235,899,BB,Medium
+USD,Airlines,B,Medium,BB,Medium,B,Medium,200,321,200,721,B,Medium
+USD,Technology,A,High,BB,Medium,BB,Medium,570,326,310,1206,A,High
+USD,Pharmaceuticals,B,Medium,B,Medium,B,Medium,215,230,200,645,B,Medium
+USD,,B,Medium,B,Medium,BB,Medium,200,258,300,758,BB,Medium
+USD,Banking,B,Medium,B,Medium,B,Medium,250,207,233,690,B,Medium
+USD,Financial Services,B,Medium,BB,Medium,B,Medium,260,350,267,877,BB,Medium
+USD,Trading Companies and Distributors,B,Medium,B,Medium,B,Medium,230,201,210,641,B,Medium
+USD,Biotechnology,A,High,BB,Medium,BB,Medium,535,322,325,1182,BBB,High
+USD,Communications,A,High,BB,Medium,BB,Medium,505,337,300,1142,BBB,High
+USD,Machinery,B,Medium,BB,Medium,B,Medium,200,323,240,763,BB,Medium
+USD,Textiles Apparel and Luxury Goods,B,Medium,B,Medium,B,Medium,200,211,210,621,B,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,225,212,300,737,B,Medium
+USD,Pharmaceuticals,B,Medium,B,Medium,B,Medium,225,243,205,673,B,Medium
+USD,Consumer products,B,Medium,B,Medium,BB,Medium,225,207,300,732,B,Medium
+USD,Financial Services,B,Medium,B,Medium,B,Medium,230,202,200,632,B,Medium
+USD,Life Sciences Tools and Services,B,Medium,B,Medium,BB,Medium,250,221,300,771,BB,Medium
+USD,Banking,B,Medium,BB,Medium,B,Medium,255,321,233,809,BB,Medium
+USD,Banking,B,Medium,B,Medium,BB,Medium,245,275,300,820,BB,Medium
+USD,Health Care,A,High,BB,Medium,BB,Medium,545,324,320,1189,BBB,High
+USD,,B,Medium,B,Medium,BB,Medium,245,205,300,750,BB,Medium
+USD,Biotechnology,BBB,High,BB,Medium,BB,Medium,485,300,310,1095,BBB,High
+USD,Metals and Mining,A,High,BB,Medium,BB,Medium,500,301,300,1101,BBB,High
+USD,Banking,B,Medium,BB,Medium,B,Medium,205,302,210,717,B,Medium
+USD,Consumer products,B,Medium,B,Medium,B,Medium,222,221,208,651,B,Medium
+USD,Commercial Services and Supplies,A,High,BBB,High,BB,Medium,525,400,300,1225,A,High
+USD,Banking,B,Medium,BB,Medium,B,Medium,271,328,250,849,BB,Medium
+USD,Biotechnology,BB,Medium,B,Medium,B,Medium,320,221,285,826,BB,Medium
+USD,Health Care,B,Medium,B,Medium,B,Medium,278,297,220,795,BB,Medium
+USD,Electrical Equipment,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+USD,Health Care,B,Medium,B,Medium,B,Medium,215,233,205,653,B,Medium
+USD,Semiconductors,A,High,B,Medium,BB,Medium,575,285,305,1165,BBB,High
+USD,Leisure Products,B,Medium,B,Medium,B,Medium,233,224,200,657,B,Medium
+USD,Energy,B,Medium,B,Medium,B,Medium,200,200,260,660,B,Medium
+USD,Health Care,B,Medium,BB,Medium,B,Medium,245,306,200,751,BB,Medium
+USD,Banking,A,High,BB,Medium,BB,Medium,565,328,315,1208,A,High
+USD,Machinery,A,High,B,Medium,BB,Medium,500,260,300,1060,BBB,High
+USD,Food Products,A,High,BB,Medium,B,Medium,500,302,220,1022,BBB,High
+USD,Financial Services,BBB,High,BB,Medium,BB,Medium,473,321,310,1104,BBB,High
+USD,Electrical Equipment,B,Medium,BB,Medium,BB,Medium,299,305,315,919,BBB,High
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,200,215,215,630,B,Medium
+USD,Health Care,B,Medium,B,Medium,BB,Medium,200,224,300,724,B,Medium
+USD,Retail,B,Medium,B,Medium,B,Medium,225,227,215,667,B,Medium
+USD,,B,Medium,B,Medium,B,Medium,245,203,265,713,B,Medium
+USD,Diversified Consumer Services,BB,Medium,B,Medium,B,Medium,365,297,250,912,BBB,High
+USD,Consumer products,BB,Medium,BB,Medium,BB,Medium,340,346,305,991,BBB,High
+USD,Semiconductors,A,High,BB,Medium,BB,Medium,505,304,300,1109,BBB,High
+USD,Media,B,Medium,BB,Medium,B,Medium,240,302,205,747,B,Medium
+CNY,Media,B,Medium,BB,Medium,B,Medium,260,320,240,820,BB,Medium
+USD,,B,Medium,B,Medium,B,Medium,235,231,250,716,B,Medium
+USD,Electrical Equipment,A,High,B,Medium,B,Medium,500,240,215,955,BBB,High
+USD,Professional Services,B,Medium,B,Medium,B,Medium,275,264,278,817,BB,Medium
+USD,Road and Rail,A,High,BB,Medium,BB,Medium,532,311,303,1146,BBB,High
+USD,Metals and Mining,BBB,High,B,Medium,BB,Medium,400,240,300,940,BBB,High
+USD,Metals and Mining,B,Medium,B,Medium,B,Medium,238,231,200,669,B,Medium
+USD,Energy,BBB,High,B,Medium,BB,Medium,438,265,315,1018,BBB,High
+USD,Technology,B,Medium,B,Medium,B,Medium,285,245,240,770,BB,Medium
+USD,Biotechnology,B,Medium,B,Medium,BB,Medium,233,259,300,792,BB,Medium
+USD,Biotechnology,B,Medium,B,Medium,B,Medium,210,251,290,751,BB,Medium
+USD,Retail,BB,Medium,BB,Medium,BB,Medium,335,300,300,935,BBB,High
+CNY,Electrical Equipment,B,Medium,B,Medium,B,Medium,217,200,200,617,B,Medium
+USD,Health Care,B,Medium,B,Medium,B,Medium,205,201,210,616,B,Medium
+USD,Communications,BB,Medium,BB,Medium,BB,Medium,340,310,365,1015,BBB,High
+CNY,Retail,B,Medium,B,Medium,B,Medium,203,202,225,630,B,Medium
+USD,Banking,BB,Medium,BB,Medium,BB,Medium,331,322,305,958,BBB,High
+CNY,Technology,B,Medium,B,Medium,B,Medium,205,214,215,634,B,Medium
+USD,Metals and Mining,B,Medium,B,Medium,B,Medium,223,212,200,635,B,Medium
+USD,Construction,A,High,B,Medium,BB,Medium,500,233,300,1033,BBB,High
+USD,Health Care,B,Medium,B,Medium,B,Medium,240,236,250,726,B,Medium
+USD,Metals and Mining,A,High,BB,Medium,BB,Medium,505,302,320,1127,BBB,High
+USD,,B,Medium,B,Medium,BB,Medium,205,257,300,762,BB,Medium
+CNY,Financial Services,B,Medium,B,Medium,B,Medium,200,200,220,620,B,Medium
+USD,Health Care,BBB,High,BB,Medium,B,Medium,441,300,270,1011,BBB,High
+USD,Media,BB,Medium,BB,Medium,BB,Medium,330,300,300,930,BBB,High
+USD,Financial Services,B,Medium,B,Medium,B,Medium,215,203,203,621,B,Medium
+USD,Insurance,A,High,BB,Medium,BB,Medium,500,322,315,1137,BBB,High
+USD,Insurance,A,High,BB,Medium,BB,Medium,540,329,340,1209,A,High
+USD,Marine,B,Medium,B,Medium,B,Medium,242,204,200,646,B,Medium
+USD,Construction,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+USD,Electrical Equipment,A,High,B,Medium,B,Medium,510,209,210,929,BBB,High
+USD,"Hotels, Restaurants & Leisure",B,Medium,B,Medium,B,Medium,235,209,205,649,B,Medium
+USD,Real Estate,AA,Excellent,BBB,High,BB,Medium,646,404,313,1363,A,High
+USD,Building,A,High,BB,Medium,BB,Medium,535,305,300,1140,BBB,High
+USD,Consumer products,B,Medium,B,Medium,B,Medium,245,272,230,747,B,Medium
+USD,Metals & Mining,B,Medium,B,Medium,B,Medium,215,200,200,615,B,Medium
+USD,Insurance,B,Medium,B,Medium,BB,Medium,205,260,300,765,BB,Medium
+USD,Utilities,A,High,BB,Medium,BB,Medium,585,348,310,1243,A,High
+USD,Technology,A,High,BB,Medium,BB,Medium,549,321,330,1200,A,High
+USD,Health Care,BBB,High,BB,Medium,BB,Medium,448,303,305,1056,BBB,High
+USD,Energy ,A,High,B,Medium,B,Medium,511,225,215,951,BBB,High
+USD,"Hotels, Restaurants & Leisure",BB,Medium,B,Medium,B,Medium,305,288,250,843,BB,Medium
+USD,Machinery,BBB,High,BB,Medium,BB,Medium,489,349,300,1138,BBB,High
+USD,Real Estate,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+USD,Technology,BBB,High,BB,Medium,BB,Medium,480,329,320,1129,BBB,High
+USD,Energy ,BB,Medium,B,Medium,B,Medium,307,257,255,819,BB,Medium
+USD,Aerospace & Defense,B,Medium,B,Medium,B,Medium,225,203,205,633,B,Medium
