@@ -67,6 +67,8 @@ The model is designed for **ethical, sustainable investing**, aligning high-accu
 
 ![image](https://github.com/user-attachments/assets/94d68cd1-de90-4cf7-9098-37275f5396fc)
 ![image](https://github.com/user-attachments/assets/93c7026e-7826-4e65-8b2d-f04618a8c510)
+![image](https://github.com/user-attachments/assets/3fb37465-dbee-441a-a3fd-89a619e78fc1)
+
 
 
 
