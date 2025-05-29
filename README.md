@@ -65,10 +65,10 @@ The model is designed for **ethical, sustainable investing**, aligning high-accu
 
 ## 📊 Visual Examples
 
-Include screenshots of:
-- Confusion matrices
-- ESG vs Financial performance graphs
-- Feature importance from SHAP (if added)
+![image](https://github.com/user-attachments/assets/94d68cd1-de90-4cf7-9098-37275f5396fc)
+![image](https://github.com/user-attachments/assets/93c7026e-7826-4e65-8b2d-f04618a8c510)
+
+
 
 ---
 
